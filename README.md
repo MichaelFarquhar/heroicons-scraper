@@ -9,13 +9,13 @@ This Python script will extract all SVG icons from Heroicons and create .svg fil
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/heroicons-web-scraper.git
+git clone https://github.com/MichaelFarquhar/heroicons-scraper
 ```
 
 2. Navigate to the Project Directory:
 
 ```bash
-cd heroicons-web-scraper
+cd heroicons-scraper
 ```
 
 3. Install Dependencies:
