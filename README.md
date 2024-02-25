@@ -4,6 +4,8 @@
 
 This Python script will extract all SVG icons from Heroicons and create .svg files for each, seperating them into individual folders for each icon style. By running this script, it will automatically create these folders and svg files in the project directory.
 
+A demo can be found [here](https://replit.com/@MichaelFarquhar/heroicons-scraper?v=1#main.py) on Replit.
+
 # Usage
 
 1. Clone the Repository:
@@ -34,10 +36,11 @@ The script will initiate the scraping process, downloading and organizing the He
 
 # Generated Folders
 
--   `/outline`
--   `/solid`
--   `/mini`
--   `/micro`
+    ├── /outline                
+    ├── /solid                    
+    ├── /mini 
+    ├── /micro                    
+    └── ...
 
 # Disclaimer
 
